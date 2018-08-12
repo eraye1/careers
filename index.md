@@ -1,25 +1,42 @@
-## Jobs with VG Software 
+# Jobs with VG Software 
 
 We're excited you're interested in pursuing jobs with VG.
 
-### Engineering
+## Who are we
+We are a small company based in San Francisco, focused on buying and growing online businesses of all different kinds.
+
+All jobs are location-independent, contractor-based, and focused on impact.  We have no regular meetings aside from a morning check-in twice a week.  We're focused on building a team in India and Southeast Asia/the Phillipines right now, but we take talented people from anywhere.
+
+## Engineering
 
 Full-stack software engineer
 
-```markdown
-# Expectations
+Expectations
 - Write backend software useing Django/Ruby on Rails
 - Design data models that fit feature needs
 - Build out simple front-ends using basic Javascript or a javascript framework
-```
 
+## Sales & Marketing
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Sales development representative
+Expectations
+- Generate leads from medical clinics, accupuncture, and massage parlors for a product with ASP of 10000
 
-### Jekyll Themes
+Account executive
+Expectations
+- Prospect, build and maintain a robust sales pipeline
+- Work with partners to extend reach & new opportunities
+- Manage negotiation with customers
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eraye1/careers/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Marketing manager
+Expectations
+- Build inbound leads
 
-### Support or Contact
+## Operations
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Virtual assistant
+Expectations
+- Manage calendar + scheduling
+- Assist with sales
+
+## Join us!
