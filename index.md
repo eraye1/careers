@@ -40,3 +40,4 @@ Expectations
 - Assist with sales
 
 ## Join us!
+Email us at careers@branchspot.com
