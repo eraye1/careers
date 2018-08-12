@@ -1,30 +1,18 @@
 ## Jobs with VG Software 
 
-You can use the [editor on GitHub](https://github.com/eraye1/careers/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We're excited you're interested in pursuing jobs with VG.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Engineering
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Full-stack software engineer
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Expectations
+- Write backend software useing Django/Ruby on Rails
+- Design data models that fit feature needs
+- Build out simple front-ends using basic Javascript or a javascript framework
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
