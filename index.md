@@ -40,4 +40,4 @@ Expectations
 - Assist with sales
 
 ## Join us!
-Email us at <careers@branchspot.com>
+Email us at <victoriagrover01@gmail.com>
